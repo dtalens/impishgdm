@@ -1,4 +1,4 @@
-# focalgdm3
+# impishgdm
 
 _**This script assumes that the Installation of Ubuntu 21.10 is a fresh install. If you tried to change the GDM background with someother scripts, you first need to reset those changes. Other scripts may have the option --reset.**_
 
