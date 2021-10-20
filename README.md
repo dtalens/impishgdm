@@ -4,8 +4,7 @@ _**This script assumes that the Installation of Ubuntu 21.10 is a fresh install.
 
 Change the login screen background for Ubuntu 21.10 only.
 
-this script is to change the login screen background of Ubuntu 21
-º.10 only.
+this script is to change the login screen background of Ubuntu 21.10 only.
 
 
 you can download the `impishgdm` file via command line
